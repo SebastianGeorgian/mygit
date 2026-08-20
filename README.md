@@ -1,6 +1,5 @@
 # mygit — a minimal Git, written from scratch in C
 
-[![CI](https://github.com/SebastianGeorgian/mini-git/actions/workflows/ci.yml/badge.svg)](https://github.com/SebastianGeorgian/mini-git/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ![C11](https://img.shields.io/badge/C-C11-00599C?logo=c)
 ![No dependencies](https://img.shields.io/badge/dependencies-none-success)
