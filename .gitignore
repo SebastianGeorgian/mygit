@@ -1,0 +1,11 @@
+# Build output (make)
+/mygit
+*.o
+
+# A repository created by trying mygit inside its own source tree
+.mygit/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
